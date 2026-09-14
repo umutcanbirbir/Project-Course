@@ -1,0 +1,15 @@
+# Local configuration and secrets
+*.env
+.env*
+appsettings.*.json
+connection*.json
+secrets/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Obsidian workspace
+.obsidian/workspace*.json
