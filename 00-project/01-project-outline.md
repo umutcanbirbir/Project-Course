@@ -3,7 +3,7 @@ name: "Umut Can Birbir"
 neptun: "DUJ3ZD"
 id: 2026-LA-04
 github: "https://github.com/umutcanbirbir/Project-Course"
-trello: "[TRELLO BOARD URL]"
+trello: "https://trello.com/b/oCicOEBk"
 ---
 
 # Smart Parking Garage Management System
